@@ -11,7 +11,7 @@ export function Header({ currentView }) {
   return (
     <header className="top">
       <div className="wrap">
-        <a className="mark" href="#home" aria-label="Apex Labs home">
+        <a className="mark" href="#home" aria-label="Manthan Labs home">
           <svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true">
             <path
               d="M2 20 L11 3 L20 20"
@@ -21,7 +21,7 @@ export function Header({ currentView }) {
             />
             <circle cx="11" cy="14" r="2.2" fill="#3ED6F0" />
           </svg>
-          Apex Labs
+          Manthan Labs
         </a>
         <nav className="nav" aria-label="Pages">
           {navLinks.map((link) => {

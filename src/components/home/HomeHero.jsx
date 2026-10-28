@@ -9,7 +9,7 @@ export function HomeHero({ isActive = true }) {
       <div className="wrap">
         <h1>We run experiments in AI until they become products.</h1>
         <p className="lede">
-          Apex Labs builds models, simulates complex systems, and turns the
+          Manthan Labs builds models, simulates complex systems, and turns the
           experiments that work into tools people use.
         </p>
         <div className="row">

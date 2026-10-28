@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer>
       <div className="wrap">
-        <span>© 2026 Apex Labs</span>
+        <span>© 2026 Manthan Labs</span>
         <div className="legend" aria-label="Status markers">
           <StatusBadge status="exp" label="Experiment" />
           <StatusBadge status="dev" label="In development" />
